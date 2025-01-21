@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <div className='bg-black text-white px-4 py-2 flex justify-between'>
 
-      <h1 className='text-2xl'>Demo</h1>
+      <a href='/' className='text-2xl'>Demo</a>
 
       <nav>
 
