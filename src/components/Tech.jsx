@@ -6,7 +6,7 @@ const Tech = () => {
   return (
     <div>
       
-      <h1 className='text-4xl text-center font-bold'>
+      <h1 className='text-4xl text-center font-bold underline underline-offset-4'>
         Technologies I Use
       </h1>
 
