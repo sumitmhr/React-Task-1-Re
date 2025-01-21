@@ -10,7 +10,7 @@ const Tech = () => {
         Technologies I Use
       </h1>
 
-      <div className='grid grid-cols-4 gap-y-10 my-8 justify-items-center'>
+      <div className='grid grid-cols-4 gap-y-10 my-8 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 justify-items-center'>
 
         <DiReact size={150} className='hover:fill-red-500 hover:scale-125 transition-all duration-300' />
         <DiJava size={150} />
