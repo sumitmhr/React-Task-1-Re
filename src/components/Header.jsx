@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router'
 
 const Header = () => {
   return (
@@ -8,7 +9,8 @@ const Header = () => {
 
       <nav>
 
-        
+        <NavLink to={'/about'}>About</NavLink>
+        <NavLink to={'/contact'}>Contact</NavLink>
 
       </nav>
       
