@@ -15,7 +15,7 @@ const Tech = () => {
         <DiReact size={150} className='hover:fill-red-500 hover:scale-125 transition-all duration-300' />
         <DiJava size={150} />
         <FaVuejs size={150} />
-        <FaCss3 size={150} />
+        <FaCss3 size={150} className='animate-bounce' />
         <DiPython size={150} />
         <FaSwift size={150} />
 
